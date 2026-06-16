@@ -57,7 +57,8 @@ asr_model = EncoderDecoderASR.from_hparams(source="speechbrain/asr-conformer-tra
 asr_model.transcribe_file("speechbrain/asr-conformer-transformerlm-librispeech/example.wav")
 ```
 
-##  <a href="https://speechbrain.github.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png" alt="drawing" width="50"/> </a>  Documentation
+##  <a href="https://speechbrain.github.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1920px-Google_Colaboratory_SVG_Logo.svg.png" alt="drawing" width="40"/> </a>  Documentation
+                                                                        
 - We are deeply dedicated to promoting inclusivity and education.
 - We have authored over 30 [tutorials](https://speechbrain.readthedocs.io) that not only describe how SpeechBrain works but also help users familiarize themselves with Conversational AI.
 - Every class or function has clear explanations and examples that you can run. Check out the [documentation](https://speechbrain.readthedocs.io/en/latest/index.html) for more details 📚.
